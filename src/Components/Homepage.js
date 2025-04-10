@@ -13,10 +13,7 @@ function Homepage() {
           <div class>
             <h5 class=" text-center fs-1">Portfolio Introduction</h5>
             <p class="text-center fs-5">
-              Hi my name is Laban Bishop and this is my portfolio, I am a
-              programmer and developer. In this portfolio you'll be able to my
-              projects, what kind of programming work I do, my qualifications
-              and contacts.
+              velvet hello 
             </p>
           </div>
         </div>
