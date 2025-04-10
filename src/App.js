@@ -1,9 +1,11 @@
 import picture from "./picture.svg";
-import Navbar from "./Components/NavBar";
+import reportWebVitals from './reportWebVitals';
+import Navbar from "./Components/Navbar";
 import Homepage from "./Components/Homepage";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
+
   return (
     <div>
       <Navbar />
@@ -11,5 +13,6 @@ function App() {
     </div>
   );
 }
+reportWebVitals(console.log);
 
 export default App;
