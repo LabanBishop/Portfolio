@@ -1,0 +1,9 @@
+--------to start virtual environment and start web app
+.venv/Scripts/activate
+streamlit run .venv/Scripts/main.py
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Set-ExecutionPolicy Restricted -Scope CurrentUser
+
+cd portfolio-webapp
